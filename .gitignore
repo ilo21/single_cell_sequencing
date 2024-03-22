@@ -5,6 +5,6 @@ output/
 R_code/.RData
 R_code/.Rhistory
 R_code/.Rproj.user
-t2g.txt
-index.idx
+my_new_analysis/t2g.txt
+my_new_analysis/index.idx
 __pycache__
